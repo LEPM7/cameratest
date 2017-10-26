@@ -2,5 +2,7 @@
   "name": "cameratest",
   "app_id": "dd84d10c",
   "type": "ionic1",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
